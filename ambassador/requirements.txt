@@ -1,6 +1,6 @@
 requests==2.20.1
 clize==4.0.3
-flask==1.0.2
+flask==2.2.5
 gunicorn==19.9.0
 jinja2==2.10.1
 jsonschema==2.6.0
