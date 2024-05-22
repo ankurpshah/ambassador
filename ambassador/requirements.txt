@@ -1,4 +1,4 @@
-requests==2.20.1
+requests==2.32.0
 clize==4.0.3
 flask==1.0.2
 gunicorn==19.9.0
